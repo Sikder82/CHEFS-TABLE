@@ -1,0 +1,22 @@
+{
+    "Recipes": [
+        {
+            "image": "url()",
+            "id": "01",
+            "name": "Spaghetti Bolognese",
+            "description": "Classic Italian pasta dish with savory meat sauce.",
+            "ingredients": ["500g ground beef","1 onion chopped", "2 cloves garlic, minced"],
+            "time": "30 min",
+            "calorie": "600 calories"
+        },
+        {
+            "image": "",
+            "id": "02",
+            "name": "Chicken Caesar Salad",
+            "description": "Classic Italian pasta dish with savory meat sauce.",
+            "ingredients": ["500g ground beef","1 onion chopped", "2 cloves garlic, minced"],
+            "time": "20 min",
+            "calorie": "700 calories"
+        }
+    ]
+}
