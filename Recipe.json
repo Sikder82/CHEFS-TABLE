@@ -1,20 +1,26 @@
 {
     "Recipes": [
         {
-            "image": "url()",
+            "image": {
+                "file_path": "/image/spaghetti_bolognese.jpg",
+                "alt_text": "Spaghetti Bolognese"
+            },
             "id": "01",
             "name": "Spaghetti Bolognese",
             "description": "Classic Italian pasta dish with savory meat sauce.",
-            "ingredients": ["500g ground beef","1 onion chopped", "2 cloves garlic, minced"],
+            "ingredients": ["500g ground beef", "1 onion chopped", "2 cloves garlic, minced"],
             "time": "30 min",
             "calorie": "600 calories"
         },
         {
-            "image": "",
+            "image": {
+                "file_path": "/image/chicken_caesar_salad.jpg",
+                "alt_text": "Chicken Caesar Salad"
+            },
             "id": "02",
             "name": "Chicken Caesar Salad",
-            "description": "Classic Italian pasta dish with savory meat sauce.",
-            "ingredients": ["500g ground beef","1 onion chopped", "2 cloves garlic, minced"],
+            "description": "Classic salad with grilled chicken, romaine lettuce, croutons, and Caesar dressing.",
+            "ingredients": ["1 head romaine lettuce", "2 grilled chicken breasts", "1 cup croutons", "1/2 cup grated Parmesan cheese", "1/4 cup Caesar dressing"],
             "time": "20 min",
             "calorie": "700 calories"
         }
